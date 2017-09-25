@@ -8,21 +8,8 @@ function appendKitten(){
 
 ['Milo', 'Otis', 'Garfield']
 function kittens() {
-  
+
 }
 
 
 ["Milo", "Otis", "Garfield"]
-
-
-
-
-
-
-
-
-
-
-
-
-
