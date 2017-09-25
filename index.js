@@ -24,5 +24,5 @@ function unshift(){
 }
 
 function shift() {
-  
+
 }
