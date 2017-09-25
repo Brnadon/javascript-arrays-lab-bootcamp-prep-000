@@ -11,5 +11,18 @@ function kittens() {
 
 }
 
-
 ["Milo", "Otis", "Garfield"]
+
+
+ function push(){
+}
+
+function pop(){
+}
+
+function unshift(){
+}
+
+function shift() {
+  
+}
